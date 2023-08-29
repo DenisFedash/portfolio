@@ -423,7 +423,7 @@ html, body {
 
 .content-list__item:nth-child(2) {
     top: 200%;
-    left: 40%;
+    left: 50%;
 }
 
 .content-list__item:nth-child(3) {
@@ -432,7 +432,7 @@ html, body {
 }
 
 .content-list__item:nth-child(4) {
-    top: 250%;
+    top: 215%;
     left: 20%;
 }
 
@@ -447,8 +447,8 @@ html, body {
 }
 
 .content-list__item:nth-child(7) {
-    top: 80%;
-    right: 10%;
+    top: 115%;
+    right: 15%;
 }
 
 .content-list__item:nth-child(8) {
@@ -457,17 +457,17 @@ html, body {
 }
 
 .content-list__item:nth-child(9) {
-    bottom: -230%;
+    bottom: -210%;
     right: 40%;
 }
 
 .content-list__item:nth-child(10) {
-    bottom: -300%;
+    bottom: -210%;
     left: 10%;
 }
 
 .content-list__item:nth-child(11) {
-    bottom: -300%;
+    bottom: -210%;
     right: 20%;
 }
 /* Footer */
